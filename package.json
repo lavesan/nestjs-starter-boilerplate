@@ -37,7 +37,7 @@
     "bcryptjs": "^2.4.3",
     "btoa-atob": "^0.1.2",
     "class-transformer": "^0.2.3",
-    "class-validator": "^0.11.0",
+    "class-validator": "^0.14.0",
     "csurf": "^1.10.0",
     "express-rate-limit": "^5.0.0",
     "fs": "^0.0.1-security",
